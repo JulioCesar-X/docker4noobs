@@ -1,30 +1,28 @@
-# Docker4Noobs
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
     <img src="./.github/header_4noobs.svg">
   </a>
 </p>
-
-<h2 align="center">Docker4Noobs</h2>
-
-<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Imagem do Docker" width="120"></h1>
-
 <p align="center">
-  <a href="https://docs.docker.com/get-started/"><strong>Explore a documentação oficial »</strong></a>
-  <br />
-  <a href="https://github.com/JulioCesar-X/docker4noobs/issues">Reportar Bug</a>
-  ·
-  <a href="https://github.com/JulioCesar-X/docker4noobs/issues">Solicitar Feature</a>
+  <h2 align="center">Docker4Noobs</h2>
+  
+  <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Imagem do Docker" width="120"></h1>
+  <p align="center">
+    <br />
+    <a href="https://docs.docker.com/get-started/"><strong>Explore a documentação oficial »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/JulioCesar-X/docker4noobs/issues">Reportar Bug</a>
+    ·
+    <a href="https://github.com/JulioCesar-X/docker4noobs/issues">Solicitar Feature</a>
+  </p>
 </p>
-
----
 
 ## Sobre o Projeto
 
 Este projeto tem como objetivo introduzir o Docker, uma ferramenta amplamente usada para criação e gerenciamento de contêineres, para iniciantes. Aprenda como instalar, configurar e criar seus próprios contêineres, simplificando a virtualização de aplicações.
 
----
 
 ## ROADMAP
 
@@ -55,7 +53,6 @@ Este projeto tem como objetivo introduzir o Docker, uma ferramenta amplamente us
   - [Kubernetes](#kubernetes)
 - [Finalização](#finalização)
 
----
 
 ## Como Contribuir
 
@@ -70,9 +67,8 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Júlio César Pereira** - _Developer - [@JulioCesar](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-70a533262/)
+- **Júlio César Pereira** -  _Developer_ - [@JulioCesar](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-70a533262/)
 
----
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
