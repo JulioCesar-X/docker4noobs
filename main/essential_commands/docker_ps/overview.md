@@ -43,4 +43,5 @@ docker ps [OPTIONS]
    docker ps --filter "status=exited"
    ```
 
-Confira exemplos detalhados em [examples.md](./examples.md).
+- Confira exemplos detalhados em [examples.md](./examples.md).
+- Finalizou? volte para [Comandos Essenciais](../README.md).
