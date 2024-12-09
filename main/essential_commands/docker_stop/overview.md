@@ -36,4 +36,5 @@ docker stop [OPTIONS] CONTAINER [CONTAINER...]
    docker stop -t 5 meu-container
    ```
 
-Confira exemplos detalhados em [examples.md](./examples.md).
+- Confira exemplos detalhados em [examples.md](./examples.md).
+- Finalizou? volte para [Comandos Essenciais](../README.md).
