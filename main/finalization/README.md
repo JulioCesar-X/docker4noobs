@@ -85,7 +85,7 @@ Agora que você domina os fundamentos do Docker, aqui estão algumas sugestões 
 
 ## 🔗 Voltar para o Início
 
-Se quiser revisar algum tópico ou começar do zero, volte para a [Introdução](./introduction/README.md).
+Se quiser revisar algum tópico ou começar do zero, volte para a [Introdução](../introduction/README.md).
 
 ---
 
