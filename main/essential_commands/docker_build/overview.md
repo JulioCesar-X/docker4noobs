@@ -39,4 +39,5 @@ docker build [OPTIONS] PATH
    docker build --build-arg ENV=production -t minha-imagem:1.0 .
    ```
 
-Confira exemplos detalhados em [examples.md](./examples.md).
+- Confira exemplos detalhados em [examples.md](./examples.md).
+- Finalizou? volte para [Comandos Essenciais](../essential_commands/README.md).
