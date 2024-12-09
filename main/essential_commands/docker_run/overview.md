@@ -43,4 +43,5 @@ docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
    docker run -d -p 8080:80 nginx
    ```
 
-Confira exemplos detalhados em [examples.md](./examples.md).
+- Confira exemplos detalhados em [examples.md](./examples.md).
+- Finalizou? volte para [Comandos Essenciais](../README.md).
