@@ -40,4 +40,4 @@ docker build [OPTIONS] PATH
    ```
 
 - Confira exemplos detalhados em [examples.md](./examples.md).
-- Finalizou? volte para [Comandos Essenciais](../essential_commands/README.md).
+- Finalizou? volte para [Comandos Essenciais](../README.md).
