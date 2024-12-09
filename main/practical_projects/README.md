@@ -33,7 +33,7 @@ Nesta seção, vamos colocar o Docker em prática com projetos reais. Aqui você
 
 - Explore os [Comandos Essenciais](../essential_commands/README.md) para reforçar o uso do Docker.
 - Revise os [Conceitos Fundamentais](../concepts/README.md) para entender como os contêineres funcionam.
-
+- Finalize este tutorial [Finalização](../finalization/README.md)
 ---
 
 <div align="center">
